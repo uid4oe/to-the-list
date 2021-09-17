@@ -1,6 +1,6 @@
 # To The List
 
-Let's make lists as world needs more! To The List allows you to make any type of lists, browse, edit, share, add to your library etc. Used React.js with Semantic UI, as for the backend used Firebase. 
+Ye Ye Ye More Lists! To The List allows you to make any type of lists. Browse, edit, share, add to your library etc. Used React.js with Semantic UI, and Firebase for BaaS.
 
 ## Features
 
